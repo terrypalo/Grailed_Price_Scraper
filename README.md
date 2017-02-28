@@ -1,4 +1,4 @@
-# Grailed_Price_Scraper
+# Grailed Price Scraper
 
 ## About
 [Grailed](https://www.grailed.com/) is a website that allows users to buy and sell new/used clothing. It is sort of like eBay but with clothing only.
