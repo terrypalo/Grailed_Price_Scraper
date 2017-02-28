@@ -8,7 +8,7 @@ Grailed - High end designer clothing brands.
 Hype - Brands highly sought after.
 Basics - Everything else that doesn't really fit into the other categories.
 
-## What Grailed_Price_Scraper does
+## What the Grailed Price Scraper does
 Each listing is set up by an ID in the URL. So for instance, a listing with ID = 250 will have a URL of https://www.grailed.com/listings/250.
 
 The Grailed Price Scraper visits each listing and scrapes for: designer name, ID, item, price, size and if it sold. The resulting data is printed to a specified json file.
